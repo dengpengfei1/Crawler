@@ -1,2 +1,2 @@
 # Crawler
-[![Build Status](http://ppa.launchpad.net/couchdb/stable/ubuntu/dists/trusty/Release.gpg)]
+[![Build Status](https://travis-ci.org/dengpengfei1/Crawler.svg?branch=master)](https://travis-ci.org/dengpengfei1/Crawler)
